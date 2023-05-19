@@ -2,8 +2,8 @@
 ### Olá! Eu sou a Laura Cattabriga 👋
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://beacons.ai/lauracattabriga)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://sujeitoprogramador.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cattabrigalaura@gmail.com?subject=&body=)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/laura_cattabriga_?igshid=MzNlNGNkZWQ4Mg==)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cattabrigalaura@gmail.com)
 
 ![Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=lauracattabriga&show_icons=true&theme=tokyonight) 
 
