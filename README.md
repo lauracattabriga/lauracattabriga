@@ -5,7 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/laura_cattabriga_?igshid=MzNlNGNkZWQ4Mg==)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cattabrigalaura@gmail.com?subject=&body=)
 
-![Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=lauracattabriga&show_icons=true&theme=tokyonight) 
+![Laura GitHub stats](https://github-readme-stats.vercel.app/api?username=lauracattabriga&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauracattabriga&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia
 
